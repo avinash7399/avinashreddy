@@ -1,0 +1,11 @@
+
+.viewheight{
+    height: 100vh;
+}
+.navbar{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+}
+html {
+    scroll-behavior: smooth;
+  }
